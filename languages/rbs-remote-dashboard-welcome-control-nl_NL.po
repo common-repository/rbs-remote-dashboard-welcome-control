@@ -1,0 +1,95 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Blank Pot v1.0.0\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2017-05-22 20:36+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Your Team <translations@example.com>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: rbs-remote-dashboard-welcome-control.php:35
+msgid "Domain not allowed"
+msgstr "Domein niet toegestaan"
+
+#: rbs-remote-dashboard-welcome-control.php:36
+#, php-format
+msgid "The domain %s is not allowed to use the Control iframe"
+msgstr "Het domein %s heeft geen toestemming om het Control iframe in te laden"
+
+#: rbs-remote-dashboard-welcome-control.php:38
+#, php-format
+msgid ""
+"Go to the configuration page of the plugin and add '%s' to the allowed hosts."
+msgstr ""
+"Ga naar de instellingen pagina van de plugin en voeg '%s' toe aan de "
+"goedgekeurde hosts."
+
+#: rbs-remote-dashboard-welcome-control.php:39
+msgid "Go to configuration page"
+msgstr "Ga naar de instellingen pagina"
+
+#: rbs-remote-dashboard-welcome-control.php:121
+#: rbs-remote-dashboard-welcome-control.php:164
+msgid "Remote Dashboard Welcome Control Settings"
+msgstr "Remote Dashboard Welcome Control Instellingen"
+
+#: rbs-remote-dashboard-welcome-control.php:128
+msgid "Open all links on dashboard page in a new window"
+msgstr "Open alle links op het dashboard in een nieuw venster"
+
+#: rbs-remote-dashboard-welcome-control.php:136
+msgid ""
+"Hosts which are allowed to include the remote dashboard page as an iframe"
+msgstr "Goedgekeurde hosts die het iframe in het dashboard mogen inladen"
+
+#: rbs-remote-dashboard-welcome-control.php:179
+msgid ""
+"Enter the urls of the websites that will include the content of the Remote "
+"Dashboard Welcome Control page, separated by newlines."
+msgstr ""
+"Voeg de urls in van de sites die de content van de Dashboard Welcome Control "
+"pagina moeten laden, gescheiden door een nieuwe regel."
+
+#: rbs-remote-dashboard-welcome-control.php:203
+msgid "Settings"
+msgstr "Instellingen"
+
+#: rbs-remote-dashboard-welcome-control.php:207
+msgid "Support"
+msgstr "Support"
+
+#~ msgid "RBS Remote Dashboard Welcome Control"
+#~ msgstr "RBS Remote Dashboard Welcome Control"
+
+#~ msgid "https://roadbearstudios.com/rbs-centralized-custom-dashboard"
+#~ msgstr "https://roadbearstudios.com/rbs-centralized-custom-dashboard"
+
+#~ msgid ""
+#~ "Create a custom Remote Dashboard Welcome page for your users on your own "
+#~ "website."
+#~ msgstr ""
+#~ "Maak een eigen Remote Dashboard Welkom pagina voor je klanten op je eigen "
+#~ "website."
+
+#~ msgid ""
+#~ "Go to the <a href=\"%s\" target=\"_blank\">configuration page</a> of the "
+#~ "plugin and add '%s' to the allowed hosts."
+#~ msgstr ""
+#~ "Ga naar de <a href=“%s” target=“_blank”>instellingen pagina</a> van de "
+#~ "plugin en voeg ‘%s’ toe aan de goedgekeurde hosts."
